@@ -48,7 +48,7 @@ public class Main {
             System.out.print("Please Select Transaction : ");
             String transaction = scanner.nextLine();
             
-            if (transaction.equals("q")){
+            if (transaction.equals("A")){
                 
                 System.out.println("Exiting The Program....");
                 break;
